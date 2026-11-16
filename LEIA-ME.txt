@@ -1,0 +1,39 @@
+SITE ALTERNATIVO — RADIAÇÃO INFRAVERMELHA
+==========================================
+
+ESTRUTURA
+- index.html: conteúdo e estrutura das seções.
+- style.css: identidade visual, cores, tipografia e responsividade.
+- script.js: calculadora, seletores, simulações e interações.
+
+DIREÇÃO VISUAL
+- Nova estética inspirada no infravermelho e em ondas térmicas.
+- Paleta escura inicial: carvão/ameixa, vermelho infravermelho, coral, laranja e violeta.
+- Formas orbitais, linhas de onda, brilhos e gradientes.
+- Layout responsivo para computadores, tablets e celulares.
+
+INTERAÇÕES
+- Cursor com brilho e anel reativo em dispositivos com mouse.
+- Inclinação sutil dos cartões conforme o movimento do cursor.
+- Resposta visual ao toque com halo no ponto pressionado e elevação breve dos cartões.
+- Animações de entrada durante a rolagem e barra de progresso.
+- Seletor do espectro, partículas, calculadora Stefan-Boltzmann, mecanismos de perda de calor e cobertura da piscina.
+- Respeita a preferência por movimento reduzido.
+
+ACESSIBILIDADE
+- O site inicia no modo escuro.
+- A única opção de alternância entre modo escuro e claro fica dentro do painel Acessibilidade.
+- A preferência de tema fica salva no navegador.
+- Inclui ajuste de texto, alto contraste, redução de animações, destaque de leitura, navegação por teclado, link para pular ao conteúdo e integração VLibras.
+- Há estrutura comentada no HTML para adicionar vídeos em Libras.
+
+COMO ABRIR
+Extraia o ZIP e abra index.html. Edite os textos no HTML, as cores no início de style.css e as interações em script.js.
+
+CONTEÚDO DA APRESENTAÇÃO (ATUALIZAÇÃO)
+- Introdução sobre a troca contínua de energia entre piscina e ambiente.
+- Explicações sobre emissão e absorção de radiação térmica.
+- Lei de Stefan-Boltzmann com significado de cada variável.
+- Observação sobre radiação, evaporação e convecção natural mesmo sem vento.
+- Roteiro de apresentação de 7 slides distribuído em 10 minutos.
+- Tabela de cientistas, origens e contribuições.
